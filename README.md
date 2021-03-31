@@ -1,16 +1,14 @@
-### Hi there 👋
+### Miranda Making Things
 
-<!--
-**mscwilson/mscwilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a recent graduate from the [Makers Academy](https://makers.tech) web development bootcamp. I love Ruby, backend things, React Native, and TDD.  
 
-Here are some ideas to get you started:
+Read the full details about my bootcamp experience on [my blog](http://www.mirandawilson.tech/blog/). I mainly post about technical details that have interested or challenged me, as well as the occasional walkthrough (e.g. deploying to Heroku), and whatever music I was listening to at the time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current to do list:
+* learn Python properly
+* try out making an API
+* make a React Native mobile app with a backend
+* decide whether to stick with Sublime Text or VS Code
+* **get a job**
+
+Please feel free to contact me if you have a cool job vacancy, or a fun project to collaborate on! I'm based in London, UK.
