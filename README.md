@@ -1,6 +1,6 @@
 ### Miranda Making Things
 
-I am a recent graduate from the [Makers Academy](https://makers.tech) web development bootcamp. I love Ruby, backend things, React Native, and TDD.  
+I am a recent graduate from the [Makers Academy](https://makers.tech) software development bootcamp. I love Ruby, backend things, React Native, and TDD.  
 
 Read the full details about my bootcamp experience on [my blog](http://www.mirandawilson.tech/blog/). I mainly post about technical details that have interested or challenged me, as well as the occasional walkthrough (e.g. deploying to Heroku), and whatever music I was listening to at the time.
 
