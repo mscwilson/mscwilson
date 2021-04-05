@@ -11,4 +11,4 @@ My current to do list:
 * decide whether to stick with Sublime Text or VS Code
 * **get a job**
 
-Please feel free to contact me if you have a cool job vacancy, or a fun project to collaborate on! I'm based in London, UK.
+Please feel free to contact me if you have a cool job vacancy, or a fun project to collaborate on! Check out my CV [here](https://github.com/mscwilson/curriculum-vitae). I'm based in London, UK.
